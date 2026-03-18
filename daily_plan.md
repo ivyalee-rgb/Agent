@@ -36,5 +36,11 @@
 
 > Hi, this is Sam from Northside Home Services. I'm following up on invoice #LD-001 for $1,400, which was due 19 days ago. I want to make sure this didn't slip through the cracks. Please give me a call or reply here and we can take care of it quickly — I'm happy to take a card over the phone. Thanks, and I look forward to hearing from you soon.
 
+## Churn risk
+**Priya Shah is most at risk of churning permanently.**
+- No contact in 45 days and already flagged inactive — the longest gap of any customer
+- At $180/month she's easy to deprioritize, but that neglect is what turns inactive into lost
+- Re-engage this week with a personal check-in; offer a same-week slot to give her a reason to come back now
+
 ## Cash warning
 - Cash on hand ($12,500) covers about 1.3 months of expenses ($9,800/month) — collecting the $1,400 Lakeside Dental invoice this week is important to avoid dipping into a tight buffer
