@@ -23,6 +23,14 @@
 ## Quick revenue idea
 - Offer Green Oak Realty a discounted same-week service block to fill Thursday and Friday — they spend $2,200/month and are likely to say yes if the timing is convenient
 
+## Schedule gap strategy
+**Best option to fill Thursday & Friday: Call Green Oak Realty today**
+- Highest-value customer ($2,200/month), last contacted 18 days ago, and already active — most likely to say yes quickly
+- Offer them priority same-week scheduling; no discount needed given the relationship strength
+- If they can't fill both days, follow up with Priya Shah (inactive 45 days) and offer her a same-week slot to re-engage her
+
+*Other options considered: re-engage Priya Shah (lower value, less certain), cold outreach to new prospects (slowest to convert — not reliable for this week)*
+
 ## Payment reminder message
 *(Send to Lakeside Dental — $1,400 overdue, 19 days)*
 
