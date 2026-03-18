@@ -23,5 +23,10 @@
 ## Quick revenue idea
 - Offer Green Oak Realty a discounted same-week service block to fill Thursday and Friday — they spend $2,200/month and are likely to say yes if the timing is convenient
 
+## Payment reminder message
+*(Send to Lakeside Dental — $1,400 overdue, 19 days)*
+
+> Hi, this is Sam from Northside Home Services. I'm following up on invoice #LD-001 for $1,400, which was due 19 days ago. I want to make sure this didn't slip through the cracks. Please give me a call or reply here and we can take care of it quickly — I'm happy to take a card over the phone. Thanks, and I look forward to hearing from you soon.
+
 ## Cash warning
 - Cash on hand ($12,500) covers about 1.3 months of expenses ($9,800/month) — collecting the $1,400 Lakeside Dental invoice this week is important to avoid dipping into a tight buffer
